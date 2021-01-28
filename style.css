@@ -1,0 +1,8 @@
+.alert {
+
+    display: block;
+    padding: 1vw;
+    background-color: #f8d7da;
+    margin-bottom: 1vw;
+    border: 1px solid #f6c6cb;
+}
